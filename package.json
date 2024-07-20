@@ -2,7 +2,7 @@
   "name": "shoppingcart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://KESHAVGAUR2108.github.io/react-gh-pages",
+  "homepage": "https://KESHAVGAUR2108.github.io/e-PlantShopping",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
